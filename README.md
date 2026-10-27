@@ -25,6 +25,7 @@ Royalpad is a custom macropad that uses the Seeed Studio XIAO RP2040, QMK firmwa
 - XIAO RP2040 Controller: A compact microcontroller board for the macropad.
 - Custom PCB: Designed in KiCad.
 - QMK Firmware: open-source firmware for maximum control
+- A cool case with triangle cutouts, because why not?
 
 ## Bill of Materials (BOM)
 
