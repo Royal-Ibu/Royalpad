@@ -26,3 +26,18 @@ Royalpad is a custom macropad that uses the Seeed Studio XIAO RP2040, QMK firmwa
 - Custom PCB: Designed in KiCad.
 - QMK Firmware: open-source firmware for maximum control
 
+## Bill of Materials (BOM)
+
+| Component | Quantity | Specifications | Source / Notes |
+|---|---:|---|---|
+| Seeed XIAO RP2040 | 1 | Unsoldered microcontroller board | [Seeed Studio Documentation](https://wiki.seeedstudio.com/XIAO-RP2040/) |
+| 1N4148 Diodes | 9 | Through-hole diodes, one per switch | [Vishay Datasheet](https://www.vishay.com/docs/81857/1n4148.pdf) |
+| MX-Style Switches | 9 | Mechanical keyboard switches | [Switch Datasheet](https://cdn.shopify.com/s/files/1/0565/8070/2297/files/SPEC-KS-3Y10B050NW-X1-Yellow_Switch.pdf?v=1675841028) |
+| EC11E Rotary Encoder | 1 | Incremental rotary encoder with integrated push button | [Encoder Datasheet](https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6727/alps_alps-s-a0008379064-1-1733314-1-13.pdf) |
+| 0.91-inch OLED Display | 1 | Compact display module | Provided by Hack Club |
+| White Blank DSA Keycaps | 9 | Blank DSA-profile keycaps compatible with the selected switches | White, unlabelled keycaps - Provided by Hack Club |
+| M3 × 16 mm Screws | 4 | Enclosure mounting fasteners | Provided by Hack Club |
+| Custom PCB | 1 | Custom-designed Royalpad circuit board | Designed in KiCad |
+| 3D-Printed Top Case | 1 | Upper enclosure for the macropad | Designed in SolidWorks |
+| 3D-Printed Bottom Case | 1 | Lower enclosure housing the PCB and electronics | Designed in SolidWorks |
+| Rotary Encoder Knob | 1 | Knob compatible with the EC11E encoder shaft | Provided by Hack Club |
