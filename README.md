@@ -1,5 +1,5 @@
 # Royalpad
-A Custom 9-key Macropad with an EC11 Rotary Encoder, 0.91-inch OLED Display, and Custom KiCad PCB Built for Productivity.
+A Custom 9-key Macropad with an EC11 Rotary Encoder, 0.91-inch OLED Display, and Custom KiCad PCB Built for Productivity. Royalpad was made as a submission for [Hackpad V5](https://hackpad.hackclub.com/) through the Stardance challenge.
 
 ## Overview
 Royalpad is a custom macropad that uses the Seeed Studio XIAO RP2040, QMK firmware, and brings nine mechanical MX switches, a clickable rotary encoder, and a small OLED display. Whether you're coding, CADding, trying to be productive, or doomscrolling optimally, this macropad is the tool for the job.
@@ -145,6 +145,6 @@ The table below uses a left-to-right, top-to-bottom key order, from K1 to K9.
 
 A huge thank you to **Stardance and Hack Club** for providing such an awesome opportunity to design, build, and share a custom hardware project through the Hackpad Challenge!
 
-Royalpad was my first time designing a custom PCB and building a custom hardware project. Throughout the process, I learned how to design and lay out a PCB using KiCad, including working with components such as MX-style switches, diodes, and a rotary encoder. I also used SOLIDWORKS to design a custom two-piece enclosure that fits the PCB and other components nicely. Beyond the hardware itself, this project gave me the opportunity to explore firmware and learn more about how software interacts with custom electronics. It was a great introduction to QMK firmware, as it was definitely a challenge to compile and code everything my Royalpad needed, especially for the various mode layers. 
+Royalpad was my first time designing a custom PCB and building a custom hardware project. Throughout the process, I learned how to design and lay out a PCB using KiCad, including working with components such as MX-style switches, diodes, and a rotary encoder. I also used SOLIDWORKS to design a custom two-piece enclosure that fits the PCB and other components nicely. Beyond the hardware itself, this project gave me the opportunity to explore firmware and learn more about how software interacts with custom electronics. It was a great introduction to QMK firmware, as it was definitely a challenge to compile and code everything my Royalpad needed, especially for the various mode layers. I took inspiration from ReuTheCoder's [Stratum](https://github.com/ReuTheCoder/stratum-macropad) in terms of how it utilizes different layers where each key performs a different function.
 
 Most importantly, Royalpad gave me the confidence to take on a project that was completely new to me, work through unfamiliar tools and challenges, and develop skills that I can carry into future electronics, CAD, and engineering projects. I'm really grateful to Hack Club and Stardance for making this experience possible!
