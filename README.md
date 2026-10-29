@@ -13,7 +13,7 @@ Royalpad is a custom macropad that uses the Seeed Studio XIAO RP2040, QMK firmwa
 
 <img width="1058" height="843" alt="image" src="https://github.com/user-attachments/assets/0fc735e7-6182-4310-a8e7-f0eeb79ef4f4" />
 
-<img width="1332" height="631" alt="image" src="https://github.com/user-attachments/assets/eb984ab8-1d3b-4384-a45c-830667accc95" />
+<img width="1322" height="588" alt="Screenshot 2026-10-28 180010" src="https://github.com/user-attachments/assets/03c23a93-e986-4646-99ac-b22c0ffd6d2f" />
 
 <img width="627" height="792" alt="image" src="https://github.com/user-attachments/assets/f4535649-75a5-4a4e-9607-8a0dc5bca35f" />
 
